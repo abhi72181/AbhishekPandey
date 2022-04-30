@@ -16,7 +16,9 @@
 <a href="#">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhi72181&theme=rogue" height="400" />
 </a>
+
 **Projects**
+
 <a href="https://github.com/abhi72181/mamaearth-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=mamaearth-clone" />
 </a> &nbsp;
@@ -28,12 +30,17 @@
 </a>   &nbsp; <a href="https://github.com/surajahirwar/LibreTranslate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajahirwar&repo=LibreTranslate" />
 </a> -->
+
 ### **Interests**
+
 - Playing Cricket 🏏:
 - Quora :iphone::
 - Exploring :earth_asia::
 - traveling :airplane::
-### **Also find me on**[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-ahirwar/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">abhihits0404@gmail.com]
+- 
+### **Also find me on**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-ahirwar/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">abhihits0404@gmail.com]
 <!--
 **surajahirwar/surajahirwar** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
