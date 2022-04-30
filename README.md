@@ -8,13 +8,13 @@
 [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/github.png' alt='github' height='40'>](https://github.com/abhi72181)  &nbsp; [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek-rishikant-pandey/)  &nbsp; [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/facebook-logo-2019.png' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100002983253911)  &nbsp; [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/abhi_hits/)  &nbsp; [<img src='https://github.com/surajahirwar/Suraj_Ahirwar/blob/main/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/AbhiPan27650013)
 ### **Some of my GitHub Stats:**
 <a href="#">
-  <img class="left" align="center" src="https://github-readme-stats.vercel.app/api?username=surajahirwar&show_icons=true&theme=radical" />
+  <img class="left" align="center" src="https://github-readme-stats.vercel.app/api?username=abhi72181&show_icons=true&theme=radical" />
 </a> &nbsp
 <a  href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajahirwar&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi72181&show_icons=true&theme=radical" />
 </a> &nbsp
 <a href="#">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=surajahirwar&theme=rogue" height="400" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhi72181&theme=rogue" height="400" />
 </a>
 **Projects**
 <a href="https://github.com/Tushar504/Fw-15-Buywow-unit3-project">
